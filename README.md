@@ -1,3 +1,2 @@
-# gitskills
-Creating a new branch is quick and simple.
-
+#gitskills
+Creating a git is quick and merge.
